@@ -29,7 +29,7 @@ You have unlimited gems, gold and boxes. If you don't want to spend your time th
 You can choose any brawler and skin to make some screenshots to share with your friends. Let them envy you.
 ## Multiplayer
 
-Bots are... boring. Luckily, we have great multiplayer support so you can play with you friends without any lags.
+Bots are... boring. Luckily, we have great multiplayer support so you can play with you friends without any lag.
 
 ## Fast Updates
 We are trying to add new brawlers and features as fast as possible. Sometimes it takes only few days!`,
@@ -46,6 +46,22 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
                 version: "V56 for iOS",
                 downloadLink: "https://dnull.xyz/latest_bs_i",
                 altDownload: "https://drive.google.com/uc?export=download&id=1qDaEwLtDQLpsIRh8ejg7F5_ysMyfPTA9"
+            }
+        ]
+    },
+    {
+        name: "Arch Brawl",
+        shortDescription: "A V31 private server for iOS and Android!",
+        tags: ["Private server", "Support iOS"],
+        id: "archbtw",
+        versions: [
+            {
+                version: "V31",
+                downloadLink: "https://download.natesworks.com/brawlmods/arch/archbrawl.apk"
+            },
+            {
+                version: "V31 for iOS",
+                downloadLink: "https://download.natesworks.com/brawlmods/arch/archbrawl.ipa"
             }
         ]
     },
