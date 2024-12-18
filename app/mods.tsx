@@ -38,14 +38,14 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         id: "nulls",
         versions: [
             {
-                version: "V56 for Android",
+                version: "V59 for Android",
                 downloadLink: "https://dnull.xyz/latest_bs",
-                altDownload: "https://drive.google.com/uc?export=download&id=11866WS3Q1HzVcNfD3dJYSS4yRlXJ6wEO"
+                altDownload: "https://dl.natesworks.com/brawlmods/nullsbrawl/nb_59.197_fp.apk"
             },
             {
-                version: "V56 for iOS",
+                version: "V59 for iOS",
                 downloadLink: "https://dnull.xyz/latest_bs_i",
-                altDownload: "https://drive.google.com/uc?export=download&id=1qDaEwLtDQLpsIRh8ejg7F5_ysMyfPTA9"
+                altDownload: "https://dl.natesworks.com/brawlmods/nullsbrawl/nb59.197_ecd6d17a.ipa"
             }
         ]
     },
