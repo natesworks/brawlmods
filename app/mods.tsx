@@ -51,16 +51,16 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
     },
     {
         name: "Arch Brawl",
-        shortDescription: "A V31 private server for iOS and Android!",
+        shortDescription: "A V29 private server for iOS and Android with V31 brawlers!",
         tags: ["Private server", "Support iOS"],
         id: "archbtw",
         versions: [
             {
-                version: "V31",
+                version: "V29",
                 downloadLink: "https://download.natesworks.com/brawlmods/arch/archbrawl.apk"
             },
             {
-                version: "V31 for iOS",
+                version: "V29 for iOS",
                 downloadLink: "https://download.natesworks.com/brawlmods/arch/archbrawl.ipa"
             }
         ]
@@ -74,12 +74,12 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
             {
                 version: "V43",
                 downloadLink: "https://files.magic-servers.xyz/mb.apk",
-                altDownload: "https://download.natesworks.com/brawlmods/magicbrawl/"
+                altDownload: "https://download.natesworks.com/brawlmods/magicbrawl/mb.apk"
             },
             {
                 version: "V43 for iOS",
                 downloadLink: "https://files.magic-servers.xyz/mb.ipa",
-                altDownload: "https://download.natesworks.com/brawlmods/mb.ipa"
+                altDownload: "https://download.natesworks.com/brawlmods/magicbrawl/mb.ipa"
             }
         ]
     },
@@ -91,13 +91,11 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         versions: [
             {
                 version: "V12 for Android",
-                downloadLink: "https://files.magic-servers.xyz/retrobrawl.apk",
-                altDownload: "https://drive.google.com/uc?export=download&id=1cTyA1pg-5UxAcdN4-WEPIiStSQM5Ogsx"
+                downloadLink: "https://files.magic-servers.xyz/retrobrawl.apk"
             },
             {
                 version: "V12 for iOS",
-                downloadLink: "https://files.magic-servers.xyz/retrobrawl.ipa",
-                altDownload: "https://drive.google.com/uc?export=download&id=1FYAubtY9OSQJXDNYxfyh5i9MFeQo0gBz"
+                downloadLink: "https://files.magic-servers.xyz/retrobrawl.ipa"
             }
         ]
     },
@@ -120,14 +118,14 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         id: "gene",
         versions: [
             {
-                version: "V56",
-                downloadLink: "https://drive.google.com/uc?export=download&id=1IStoE_bUPRq1rkZ9OWE0SF_-oXWYu_8y"
+                version: "V59 Not Out Yet",
+                downloadLink: "https://t.me/gene_land"
             }
         ]
     },
     {
         name: "Supercell Jailbreak",
-        shortDescription: "Official ipas, but without the annoying crash of the jailbreak detection.",
+        shortDescription: "Official ipas, but without the annoying crash of the jailbreak detection. Developer stopped updating.",
         tags: ["Official server", "Supports iOS"],
         id: "jailbreak",
         versions: [
@@ -223,16 +221,16 @@ August 2024 - October 2024
         description: "Brawler Maker is a python tool that allows even begginers to create their own brawler. To do that, it presents a UI where the user just have to enter information about the brawler, and a playable apk will be automatically generated, with other customisation settings, such as it can be useful for begginers that don't know how to mod, or for more advanced users that just want to make a base brawler.",
         versions: [
             {
-                version: "Any",
+                version: "Latest",
                 downloadLink: "https://github.com/AngelFireLA/AngelFire-Brawlermaker/releases"
             }
         ]
     },
     {
         name: "BSL",
-        shortDescription: "BSDS ripoff ported to new versions and without battles working.",
+        shortDescription: "BSDS ported to newer versions. No online battles or brawler logic.",
         tags: ["Selfhosted"],
-        id: "bslsucks",
+        id: "bsl",
         versions: [
             {
                 version: "V53 Server",
