@@ -124,19 +124,6 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         ]
     },
     {
-        name: "Supercell Jailbreak",
-        shortDescription: "Official ipas, but without the annoying crash of the jailbreak detection. Developer stopped updating.",
-        tags: ["Official server", "Supports iOS"],
-        id: "jailbreak",
-        versions: [
-            {
-                version: "V57",
-                downloadLink: "https://drive.google.com/uc?export=download&id=1eQUsIbt2alGLtzxmy0Zh48QpRNz9qjZe",
-                altDownload: "https://www.mediafire.com/file/dtev6981ol4j7du/Brawl_Stars57.325NoJb.ipa/file"
-            }
-        ]
-    },
-    {
         name: "Brawl Stars",
         shortDescription: "Unmodified official game. Must be installed using SAI (Split Apk Installer)!",
         tags: ["Official server"],
@@ -234,23 +221,19 @@ August 2024 - October 2024
         versions: [
             {
                 version: "V53 Server",
-                downloadLink: "https://drive.google.com/uc?export=download&id=1Uwjb8nJgT73KFns71R2-4YLnyCyWD8iO",
-                altDownload: "https://github.com/LkPrtctrd/BSL-V53/archive/refs/heads/master.zip"
+                downloadLink: "https://github.com/LkPrtctrd/BSL-V53/archive/refs/heads/master.zip"
             },
             {
                 version: "V53 Client",
-                downloadLink: "https://drive.google.com/uc?export=download&id=1wE1V2cN1msRYbTSKT3tZfVv9r-TqyPAK",
-                altDownload: "https://www.mediafire.com/file/n7gptweb86ncf5a/com.bsl.v53-rev1.apk/file"
+                downloadLink: "https://www.mediafire.com/file/n7gptweb86ncf5a/com.bsl.v53-rev1.apk/file"
             },
             {
                 version: "V55 Server",
-                downloadLink: "https://drive.google.com/uc?export=download&id=1KGPzvCRW_Hdq6JP9KzqDa6WsM1bk0ig5",
-                altDownload: "https://github.com/LkPrtctrd/BSL-V55/archive/refs/heads/master.zip"
+                downloadLink: "https://github.com/LkPrtctrd/BSL-V55/archive/refs/heads/master.zip"
             },
             {
                 version: "V55 Client",
-                downloadLink: "https://drive.google.com/uc?export=download&id=1jtEw9lOfs1YEBh9JipP7nR0h1JY6XAM_",
-                altDownload: "https://www.mediafire.com/file/v7zgn71r0gw1nqi/com.bsl.v55.apk/file"
+                downloadLink: "https://www.mediafire.com/file/v7zgn71r0gw1nqi/com.bsl.v55.apk/file"
             }
         ]
     },
@@ -278,7 +261,7 @@ August 2024 - October 2024
         versions: [
             {
                 version: "V15",
-                downloadLink: "https://drive.google.com/uc?export=download&id=1dP-EnCmu-yAGSCb27bcTRRXisxFjJxXX"
+                downloadLink: "https://dl.natesworks.com/brawlmods/infinityreverse/Infinity-Reverse-Brawl-15.167.apk"
             }
         ]
     },
@@ -290,19 +273,7 @@ August 2024 - October 2024
         versions: [
             {
                 version: "V12",
-                downloadLink: "https://drive.google.com/uc?export=download&id=1UWmaBt635O0TaS6H4oNB-wnVFefBimAs"
-            }
-        ]
-    },
-    {
-        name: "TomatoBrawlOG",
-        shortDescription: "Adds 4 new brawlers - Melee bot, mouse bot, ranged bot and boss bot! Based on Beta Brawl.",
-        tags: ["Offline"],
-        id: "tomato",
-        versions: [
-            {
-                version: "V11",
-                downloadLink: "https://drive.google.com/uc?export=download&id=1as-qDZ7pcCJryay58eE67DvvP3sWGP04"
+                downloadLink: "https://dl.natesworks.com/brawlmods/bustersbrawl/Buster's%20Brawl_signed.apk"
             }
         ]
     },
@@ -314,7 +285,7 @@ August 2024 - October 2024
         versions: [
             {
                 version: "V19",
-                downloadLink: "https://drive.google.com/uc?export=download&id=1Ilz1Ob71x9EOi7k9Yub8NqllNQ5_6P0E"
+                downloadLink: "https://dl.natesworks.com/brawlmods/mechaoffline/mechaoffline_v3%20(1).apk"
             }
         ]
     },
@@ -338,7 +309,7 @@ August 2024 - October 2024
         versions: [
             {
                 version: "V11",
-                downloadLink: "https://drive.google.com/uc?export=download&id=1DH6SOJbjTUAuBAENPhY8Xhuu1tvCqspO"
+                downloadLink: "https://dl.natesworks.com/brawlmods/brawlmodbeta/base%20(2).apk"
             }
         ]
     },
@@ -350,7 +321,7 @@ August 2024 - October 2024
         versions: [
             {
                 version: "V29",
-                downloadLink: "https://drive.google.com/uc?export=download&id=1DH6SOJbjTUAuBAENPhY8Xhuu1tvCqspO"
+                downloadLink: "https://dl.natesworks.com/brawlmods/giobrawl/GioBrawl_V2.5.apk"
             }
         ]
     },
@@ -425,11 +396,11 @@ August 2024 - October 2024
         name: "True V53 Offline",
         shortDescription: "Brawl Stars V53 Offline. Doesn't work on Android 14 and Brawl Ball and Showdown don't work.",
         tags: ["Offline"],
-        id: "fuck-you-drive-this-isnt-malware",
+        id: "truev53offline",
         versions: [
             {
                 version: "V53",
-                downloadLink: "https://drive.google.com/uc?export=download&id=13fvm0sBnV4KFICeBB8EnxlAgPn4vbO1J",
+                downloadLink: "https://dl.natesworks.com/brawlmods/truev53offline/truev53offline.apk",
             }
         ]
     },
@@ -453,7 +424,7 @@ August 2024 - October 2024
         versions: [
             {
                 version: "V29",
-                downloadLink: "https://www.mediafire.com/file/pxeeiqcq60260n1/GTXBRAWL_Axusterra.apk/file",
+                downloadLink: "https://dl.natesworks.com/brawlmods/gtxbrawl/GTXBRAWL_Axusterra.apk",
             }
         ]
     },
@@ -476,8 +447,8 @@ August 2024 - October 2024
         id: "boomerang",
         versions: [
             {
-                version: "V46",
-                downloadLink: "https://www.mediafire.com/file/ex3yb4x3tmffd3i/boomerang+brawl_signed_clone.apk/file",
+                version: "V29",
+                downloadLink: "https://dl.natesworks.com/brawlmods/boomerangbrawl/boomerang.apk",
             }
         ]
     },
@@ -489,7 +460,7 @@ August 2024 - October 2024
         versions: [
             {
                 version: "Finished",
-                downloadLink: "https://www.mediafire.com/file/x88p4q6g6an96pk/Mt+Brawl+finish.apk/file",
+                downloadLink: "https://dl.natesworks.com/brawlmods/mtbrawl/mtbrawl_finished.apk",
             }
         ]
     },
@@ -500,7 +471,7 @@ August 2024 - October 2024
         id: "aimbot",
         versions: [
             {
-                version: "V46",
+                version: "V29",
                 downloadLink: "https://www.mediafire.com/file/7gskpz9kijgbpgy/aimbot+brawl.apk/file",
             }
         ]
