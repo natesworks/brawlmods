@@ -118,8 +118,8 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         id: "gene",
         versions: [
             {
-                version: "V59 Not Out Yet",
-                downloadLink: "https://t.me/gene_land"
+                version: "V59",
+                downloadLink: "https://dl.natesworks.com/brawlmods/genebrawl/genebrawl_v59.apk"
             }
         ]
     },
