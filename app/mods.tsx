@@ -125,7 +125,7 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
     },
     {
         name: "Switchgear",
-        shortDescription: "Official server mod!",
+        shortDescription: "An official server mod similar to BSD and Gene with more features.",
         tags: ["Official server"],
         id: "switchgear",
         versions: [
