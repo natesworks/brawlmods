@@ -148,6 +148,18 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         ]
     },
     {
+        name: "Cool Brawl",
+        shortDescription: "Adds mod menu, new skins, a new brawler and more.",
+        tags: ["Offline"],
+        id: "cool",
+        versions: [
+            {
+                version: "V2.1.0",
+                downloadLink: "https://dl.natesworks.com/brawlstars/mods/coolbrawl/Cool+Brawl_v2.1.0.apk"
+            }
+        ]
+    },
+    {
         name: "Brawler Maker",
         shortDescription: "A tool that can automatically create a brawler from start to finish without any modding knowledge required.",
         tags: ["Utilities"],
@@ -323,19 +335,6 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
             {
                 version: "V2.2 for Windows",
                 downloadLink: "https://github.com/lilmuff2/X-coder/releases/download/v2.2/X-coder_setup.exe",
-            }
-        ]
-    },
-    {
-        name: "Cool Brawl",
-        shortDescription: "Adds mod menu, new skins, a new brawler and more.",
-        tags: ["Offline"],
-        id: "cool",
-        versions: [
-            {
-                version: "V29",
-                downloadLink: "https://drive.google.com/uc?export=download&id=1HFbzPGFMn92GPdENLKG_lfy6yXOU3ME-",
-                altDownload: "https://www.mediafire.com/file/whywimld9t3dnqf/Cool+Brawl_v1.0.1.apk/file"
             }
         ]
     },
