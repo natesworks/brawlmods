@@ -516,4 +516,29 @@ and much more!`,
             }
         ]
     },
+    {
+        name: "Funneh Brawl",
+        shortDescription: "V28 Private server (see full description).",
+        description: `Funneh Brawl V28 Release! 😱
+What works?;👍
+-Clubs ✅
+-Battle End ✅
+-Trophy Road ✅
+-Boxes ✅
+-"Daily Deals" ✅
+-Brawl Pass ✅
+And more! 😜
+Check out yourself 🥰
+Apk below ❤️
+Subscribe! (http://t.me/FunnehBrawl)`.
+        tags: ["Private server"],
+        id: "funneh",
+        versions: [
+            {
+                version: "V28",
+                downloadLink: "https://dl.natesworks.com/brawlstars/mods/funneh-brawl/Funneh-Brawl_v28.apk",
+                altDownload: "t.me/FunnehBrawl"
+            }
+        ]
+    }
 ];
