@@ -106,7 +106,7 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         id: "bsd",
         versions: [
             {
-                version: "V58",
+                version: "V59",
                 downloadLink: "https://dl.natesworks.com/brawlmods/bsdbrawl/bsd_brawl_v59.197_(28).apk"
             }
         ]
