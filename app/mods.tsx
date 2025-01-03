@@ -198,17 +198,17 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
     },
     {
         name: "BSDS",
-        shortDescription: "Selfhost your own private server with working battles.",
+        shortDescription: "Selfhost your own private server with working battles. No brawler logic.",
         tags: ["Selfhosted"],
         id: "bsds",
         versions: [
             {
                 version: "V41 Server",
-                downloadLink: "https://drive.google.com/uc?export=download&id=15bD-aZFFVfGmJ1zpOd3O61IrJ-I_pCmY"
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/bsds/v44server.zip"
             },
             {
                 version: "V41 Client",
-                downloadLink: "https://drive.google.com/uc?export=download&id=1zUZw9Sq0Z2uRIDKi35cKmRIqqoA6S8Z8"
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/bsds/com.projectbsds.v41150.apk"
             },
             {
                 version: "V44 Server",
