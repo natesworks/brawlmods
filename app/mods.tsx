@@ -530,7 +530,7 @@ What works?;👍
 And more! 😜
 Check out yourself 🥰
 Apk below ❤️
-Subscribe! (http://t.me/FunnehBrawl)`.
+Subscribe! (http://t.me/FunnehBrawl)`,
         tags: ["Private server"],
         id: "funneh",
         versions: [
