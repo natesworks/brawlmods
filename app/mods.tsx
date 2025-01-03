@@ -209,6 +209,14 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
             {
                 version: "V41 Client",
                 downloadLink: "https://drive.google.com/uc?export=download&id=1zUZw9Sq0Z2uRIDKi35cKmRIqqoA6S8Z8"
+            },
+            {
+                version: "V44 Server",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/bsds/v44server.zip"
+            },
+            {
+                version: "V44 Client",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/bsds/com.projectbsds.v44226.apk"
             }
         ]
     },
