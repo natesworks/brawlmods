@@ -351,6 +351,18 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         ]
     },
     {
+        name: "Mt Brawl Online",
+        shortDescription: "All the cursed brawlers of Mt Brawl, but you can play with friends.",
+        tags: ["Private Server"],
+        id: "mtbrawl-online",
+        versions: [
+            {
+                version: "V2",
+                downloadLink: "https://dl.natesworks.com/brawlstars/mods/mtbrawl/mtbrawl-online.apk",
+            }
+        ]
+    },
+    {
         name: "Darryl Stars",
         shortDescription: "Adds 30 new brawlers.",
         tags: ["Offline"],
