@@ -560,5 +560,89 @@ Subscribe! (http://t.me/FunnehBrawl)`,
                 altDownload: "t.me/FunnehBrawl"
             }
         ]
+    },
+    {
+        name: "Minecraft theme",
+        shortDescription: "Minecraft Nulls Brawl assets.",
+        tags: ["Nulls Brawl assets"],
+        id: "minecraft-nbassets",
+        versions: [
+            {
+                version: "V1",
+                downloadLink: "https://dl.natesworks.com/brawlstars/assets/nb/minecraft-locations.NullsBrawlAssets"
+            }
+        ]
+    },
+    {
+        name: "Chinese Skins",
+        shortDescription: "Chinese skins Nulls Brawl assets.",
+        tags: ["Nulls Brawl assets"],
+        id: "chinabrawl-nbassets",
+        versions: [
+            {
+                version: "V1",
+                downloadLink: "https://dl.natesworks.com/brawlstars/assets/nb/skins-bsc-alt.NullsBrawlAssets"
+            }
+        ]
+    },
+    {
+        name: "Maid brawlers",
+        shortDescription: "Maid Brawlers Nulls Brawl assets.",
+        tags: ["Nulls Brawl assets"],
+        id: "maid-nbassets",
+        versions: [
+            {
+                version: "V1",
+                downloadLink: "https://dl.natesworks.com/brawlstars/assets/nb/maid-skins.NullsBrawlAssets"
+            }
+        ]
+    },
+    {
+        name: "Ghoul Stars",
+        shortDescription: "Ghoul Stars Nulls Brawl assets.",
+        tags: ["Nulls Brawl assets"],
+        id: "ghoulstars-nbassets",
+        versions: [
+            {
+                version: "V1",
+                downloadLink: "https://dl.natesworks.com/brawlstars/assets/nb/ghoul-stars.NullsBrawlAssets"
+            }
+        ]
+    },
+    {
+        name: "Gift Shop Theme",
+        shortDescription: "Gift shop Nulls Brawl assets.",
+        tags: ["Nulls Brawl assets"],
+        id: "giftshop-nbassets",
+        versions: [
+            {
+                version: "V1",
+                downloadLink: "https://dl.natesworks.com/brawlstars/assets/nb/theme-giftshop.NullsBrawlAssets"
+            }
+        ]
+    },
+    {
+        name: "LNY22 Theme",
+        shortDescription: "Lunar new year Nulls Brawl assets.",
+        tags: ["Nulls Brawl assets"],
+        id: "lny22-nbassets",
+        versions: [
+            {
+                version: "V1",
+                downloadLink: "https://dl.natesworks.com/brawlstars/assets/nb/theme-LNY22.NullsBrawlAssets"
+            }
+        ]
+    },
+    {
+        name: "Outline",
+        shortDescription: "Outline Nulls Brawl assets.",
+        tags: ["Nulls Brawl assets"],
+        id: "outline-nbassets",
+        versions: [
+            {
+                version: "V1",
+                downloadLink: "https://dl.natesworks.com/brawlstars/assets/nb/outline.NullsBrawlAssets"
+            }
+        ]
     }
 ];
