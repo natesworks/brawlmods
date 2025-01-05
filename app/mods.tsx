@@ -527,12 +527,12 @@ and much more!`,
     {
         name: "RUID",
         shortDescription: "Based on surge offline v28 has half of all bs skins new brawlers some skills changed and new loading, menu and training ground.",
-        tags: ["Private server"],
+        tags: ["Offline"],
         id: "ruid",
         versions: [
             {
-                version: "V20",
-                downloadLink: "https://drive.google.com/uc?export=download&id=19nnBlUXV_CHWiXR9VX1lxIxa_JH3Oy1i"
+                version: "V3",
+                downloadLink: "https://dl.natesworks.com/brawlstars/mods/ruid/Ruidbrawl3.apk"
             }
         ]
     },
