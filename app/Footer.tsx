@@ -13,7 +13,7 @@ function Footer() {
             <MailIcon className="mr-2 h-4 w-4" />
             Contact
           </Link>
-          <Link href="https://discord.com/users/1272251195133526046" className="text-sm text-muted-foreground hover:text-foreground transition-colors flex items-center">
+          <Link href="https://dsc.gg/allbrawl" className="text-sm text-muted-foreground hover:text-foreground transition-colors flex items-center">
             <MessageCircleIcon className="mr-2 h-4 w-4" />
             Discord
           </Link>
