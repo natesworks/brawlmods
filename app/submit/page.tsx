@@ -28,7 +28,7 @@ export default function ModSubmissionForm() {
           </CardHeader>
           <CardContent>
             <form 
-              action="https://formsubmit.co/6650b3d735e3c9c77c9734ce9168ea10" 
+              action="https://openformstack.com/f/cm5jv4ywv0004v1ftyy5yz8q1" 
               method="POST" 
               className="space-y-4"
             >
