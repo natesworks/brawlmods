@@ -539,18 +539,17 @@ and much more!`,
     {
         name: "Funneh Brawl",
         shortDescription: "V28 Private server (see full description).",
-        description: `Funneh Brawl V28 Release! 😱
-What works?;👍
--Clubs ✅
--Battle End ✅
--Trophy Road ✅
--Boxes ✅
--"Daily Deals" ✅
--Brawl Pass ✅
-And more! 😜
-Check out yourself 🥰
-Apk below ❤️
-Subscribe! (http://t.me/FunnehBrawl)`,
+        description: `Funneh Brawl V28 Release! 😱\
+What works?;👍\
+-Clubs ✅\
+-Battle End ✅\
+-Trophy Road ✅\
+-Boxes ✅\
+-"Daily Deals" ✅\
+-Brawl Pass ✅\
+And more! 😜\
+Check out yourself 🥰\
+http://t.me/FunnehBrawl`,
         tags: ["Private server"],
         id: "funneh",
         versions: [
