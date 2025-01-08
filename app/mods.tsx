@@ -578,8 +578,8 @@ http://t.me/FunnehBrawl`,
         id: "funneh",
         versions: [
             {
-                version: "V28",
-                downloadLink: "https://dl.natesworks.com/brawlstars/mods/funneh-brawl/Funneh-Brawl_v28.apk",
+                version: "V2",
+                downloadLink: "https://dl.natesworks.com/brawlmods/funneh-brawl/Funneh-Brawl_v28%20(Update%20v2.0).apk",
                 altDownload: "t.me/FunnehBrawl"
             }
         ]
