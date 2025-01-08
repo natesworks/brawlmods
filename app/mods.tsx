@@ -160,6 +160,30 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         ]
     },
     {
+        name: "Original Brawl",
+        shortDescription: "Play and mod many versions of Brawl Stars. No need to host your own server!",
+        tags: ["Private server"],
+        id: "originalbrawl",
+        versions: [
+            {
+                version: "V29",
+                downloadLink: "https://dl.natesworks.com/brawlmods/originalbrawl/Original%20Brawl%20v29.apk"
+            },
+            {
+                version: "V28",
+                downloadLink: "https://dl.natesworks.com/brawlmods/originalbrawl/Original%20Brawl%20v28.189.apk"
+            },
+            {
+                version: "V26",
+                downloadLink: "https://dl.natesworks.com/brawlmods/originalbrawl/Original%20Brawl%20v26.165.apk"
+            },
+            {
+                version: "V25",
+                downloadLink: "https://dl.natesworks.com/brawlmods/originalbrawl/Original%20Brawl%20v25.107.apk"
+            }
+        ]
+    },
+    {
         name: "Brawler Maker",
         shortDescription: "A tool that can automatically create a brawler from start to finish without any modding knowledge required.",
         tags: ["Utilities"],
