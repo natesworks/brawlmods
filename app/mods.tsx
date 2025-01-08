@@ -166,20 +166,20 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         id: "originalbrawl",
         versions: [
             {
-                version: "V29",
-                downloadLink: "https://dl.natesworks.com/brawlmods/originalbrawl/Original%20Brawl%20v29.apk"
-            },
-            {
-                version: "V28",
-                downloadLink: "https://dl.natesworks.com/brawlmods/originalbrawl/Original%20Brawl%20v28.189.apk"
+                version: "V25",
+                downloadLink: "https://dl.natesworks.com/brawlmods/originalbrawl/Original%20Brawl%20v25.107.apk"
             },
             {
                 version: "V26",
                 downloadLink: "https://dl.natesworks.com/brawlmods/originalbrawl/Original%20Brawl%20v26.165.apk"
             },
             {
-                version: "V25",
-                downloadLink: "https://dl.natesworks.com/brawlmods/originalbrawl/Original%20Brawl%20v25.107.apk"
+                version: "V28",
+                downloadLink: "https://dl.natesworks.com/brawlmods/originalbrawl/Original%20Brawl%20v28.189.apk"
+            },
+            {
+                version: "V29",
+                downloadLink: "https://dl.natesworks.com/brawlmods/originalbrawl/Original%20Brawl%20v29.apk"
             }
         ]
     },
