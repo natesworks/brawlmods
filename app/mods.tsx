@@ -184,6 +184,30 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         ]
     },
     {
+        name: "Private Server Clients",
+        shortDescription: "Brawl Stars clients for connecting to private servers.",
+        tags: ["Selfhost"],
+        id: "privateserverclients",
+        versions: [
+            {
+                version: "V11",
+                downloadLink: "https://dl.natesworks.com/brawlstars/clients/v11/v11.apk"
+            },
+            {
+                version: "V12",
+                downloadLink: "https://dl.natesworks.com/brawlstars/clients/v12/v12.apk"
+            },
+            {
+                version: "V28",
+                downloadLink: "https://dl.natesworks.com/brawlstars/clients/v28/v28.apk"
+            },
+            {
+                version: "V29",
+                downloadLink: "https://dl.natesworks.com/brawlstars/clients/v29/v29.apk"
+            }
+        ]
+    },
+    {
         name: "Brawler Maker",
         shortDescription: "A tool that can automatically create a brawler from start to finish without any modding knowledge required.",
         tags: ["Utilities"],
