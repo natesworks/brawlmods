@@ -321,6 +321,22 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         ]
     },
     {
+        name: "Allah Brawl",
+        shortDescription: "Dotnet V27 and V29 server.",
+        tags: ["Private server"],
+        id: "allah",
+        versions: [
+            {
+                version: "V27",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/allahbrawl/allahbrawl-v27.zip"
+            },
+            {
+                version: "V29",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/allahbrawl/allahbrawl-v29.zip"
+            }
+        ]
+    },
+    {
         name: "Mechaoffline",
         shortDescription: "An offline version of V19.",
         tags: ["Offline"],
