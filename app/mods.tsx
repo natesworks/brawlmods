@@ -206,6 +206,22 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
                 downloadLink: "https://dl.natesworks.com/brawlstars/clients/v18/v18.apk"
             },
             {
+                version: "V19",
+                downloadLink: "https://dl.natesworks.com/brawlstars/clients/v19/v19.apk"
+            },
+            {
+                version: "V22",
+                downloadLink: "https://dl.natesworks.com/brawlstars/clients/v22/v22.apk"
+            },
+            {
+                version: "V23",
+                downloadLink: "https://dl.natesworks.com/brawlstars/clients/v23/v23.apk"
+            },
+            {
+                version: "V24",
+                downloadLink: "https://dl.natesworks.com/brawlstars/clients/v24/v24.apk"
+            },
+            {
                 version: "V27",
                 downloadLink: "https://dl.natesworks.com/brawlstars/clients/v27/v27.apk"
             },
