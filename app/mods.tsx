@@ -523,6 +523,46 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         ]
     },
     {
+        name: "Classic Brawl",
+        shortDescription: "Private server for many versions of the game.",
+        tags: ["Private server"],
+        id: "cb",
+        versions: [
+            {
+                version: "V19",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/classicbrawl/Classic-Brawl-v19.zip",
+            },
+            {
+                version: "V20",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/classicbrawl/Classic-Brawl-v20.zip",
+            },
+            {
+                version: "V21",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/classicbrawl/Classic-Brawl-v21.zip",
+            },
+            {
+                version: "V22",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/classicbrawl/Classic-Brawl-v22.zip",
+            },
+            {
+                version: "V23",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/classicbrawl/Classic-Brawl-v23.zip",
+            },
+            {
+                version: "V24",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/classicbrawl/Classic-Brawl-v24.zip"
+            },
+            {
+                version: "V25",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/classicbrawl/Classic-Brawl-v25.zip",
+            },
+            {
+                version: "V26",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/classicbrawl/Classic-Brawl-v26.zip",
+            },
+        ]
+    },
+    {
         name: "Aimbot Brawl",
         shortDescription: "Enables aimbot.",
         tags: ["Offline"],
