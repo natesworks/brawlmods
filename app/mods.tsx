@@ -52,7 +52,7 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
     {
         name: "Arch Brawl",
         shortDescription: "A V29 private server for iOS and Android with V31 brawlers!",
-        tags: ["Private server", "Support iOS"],
+        tags: ["Private server", "Supports iOS"],
         id: "archbtw",
         versions: [
             {
@@ -68,7 +68,7 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
     {
         name: "Magic Brawl",
         shortDescription: "Magic Brawl is the rebirth of Brawl Stars and its best times! All content is available on the server: online battles, all the characters and everything. By downloading this server, you can get great pleasure from the updates, because we update the server every month!",
-        tags: ["Private server", "Support iOS"],
+        tags: ["Private server", "Supports iOS"],
         id: "magic",
         versions: [
             {
@@ -174,7 +174,7 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
     {
         name: "Fiedua Brawl",
         shortDescription: "The BEST v12 private server with custom brawlers, skins and more!",
-        tags: ["Private server", "Support iOS"],
+        tags: ["Private server", "Supports iOS"],
         id: "fiedua",
         versions: [
             {
