@@ -481,7 +481,7 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
     {
         name: "Mt Brawl Online",
         shortDescription: "All the cursed brawlers of Mt Brawl, but you can play with friends.",
-        tags: ["Private Server"],
+        tags: ["Private server"],
         id: "mtbrawl-online",
         versions: [
             {
