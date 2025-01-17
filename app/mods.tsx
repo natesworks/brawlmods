@@ -413,15 +413,14 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         ]
     },
     {
-        name: "Crasher's Brawl",
-        shortDescription: "Brawl Stars V29 with 11 brand new brawlers!",
+        name: "Bruh Brawl",
+        shortDescription: "Adds unique attacks to many brawlers!",
         tags: ["Offline"],
-        id: "crasher",
+        id: "bruh",
         versions: [
             {
-                version: "0.5 (BS V29)",
-                downloadLink: "https://drive.google.com/uc?export=download&id=1sMNJzJG61x1swTpiYJfISix-fFwx20uP",
-                altDownload: "https://www.mediafire.com/file/ry7k1x0eckdgcr1/Crasher's+Brawl_v0.5.apk/file"
+                version: "V1",
+                downloadLink: "https://dl.natesworks.com/brawlmods/bruhbrawl/bruhbrawl-v1.apk",
             }
         ]
     },
