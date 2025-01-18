@@ -160,18 +160,6 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         ]
     },
     {
-        name: "Cool Brawl",
-        shortDescription: "Adds mod menu, new skins, a new brawler and more.",
-        tags: ["Offline"],
-        id: "cool",
-        versions: [
-            {
-                version: "V2.1.0",
-                downloadLink: "https://dl.natesworks.com/brawlstars/mods/coolbrawl/Cool+Brawl_v2.1.0.apk"
-            }
-        ]
-    },
-    {
         name: "Fiedua Brawl",
         shortDescription: "The BEST v12 private server with custom brawlers, skins and more!",
         tags: ["Private server", "Supports iOS"],
@@ -193,6 +181,10 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         tags: ["Private server"],
         id: "originalbrawl",
         versions: [
+            {
+                version: "V19",
+                downloadLink: "https://dl.natesworks.com/brawlmods/originalbrawl/Original%20Brawl%20v19.111.apk"
+            }
             {
                 version: "V25",
                 downloadLink: "https://dl.natesworks.com/brawlmods/originalbrawl/Original%20Brawl%20v25.107.apk"
