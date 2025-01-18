@@ -184,7 +184,7 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
             {
                 version: "V19",
                 downloadLink: "https://dl.natesworks.com/brawlmods/originalbrawl/Original%20Brawl%20v19.111.apk"
-            }
+            },
             {
                 version: "V25",
                 downloadLink: "https://dl.natesworks.com/brawlmods/originalbrawl/Original%20Brawl%20v25.107.apk"
