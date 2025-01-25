@@ -482,6 +482,18 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         ]
     },
     {
+        name: "Heart Brawl",
+        shortDescription: "V29 Server with Edgar, Byron, Amber and Collete ported.",
+        tags: ["Private server"],
+        id: "heart",
+        versions: [
+            {
+                version: "V32",
+                downloadLink: "https://dl.natesworks.com/brawlmods/heartbrawl/HeartBrawl_V32.apk",
+            }
+        ]
+    },
+    {
         name: "Darryl Stars",
         shortDescription: "Adds 30 new brawlers.",
         tags: ["Offline"],
