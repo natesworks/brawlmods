@@ -31,11 +31,6 @@ export default function RootLayout({
             {children}
           </main>
           <Script
-            async
-            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3444011043022708"
-            crossOrigin="anonymous"
-          />
-          <Script
             strategy="afterInteractive"
             src="https://www.googletagmanager.com/gtag/js?id=G-6K4D86LZCP"
           />
@@ -48,15 +43,6 @@ export default function RootLayout({
                 function gtag(){dataLayer.push(arguments);}
                 gtag('js', new Date());
                 gtag('config', 'G-6K4D86LZCP');
-              `,
-            }}
-          />
-          <Script
-            id="ads-init"
-            strategy="afterInteractive"
-            dangerouslySetInnerHTML={{
-              __html: `
-                (adsbygoogle = window.adsbygoogle || []).push({});
               `,
             }}
           />
