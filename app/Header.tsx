@@ -23,6 +23,7 @@ function Header() {
               <nav className="flex flex-col space-y-4">
                 <Link href="/" className="text-lg font-medium">Home</Link>
                 <Link href="/submit" className="text-lg font-medium">Submit</Link>
+                <Link href="https://hacc.natesworks.com" className="text-lg font-medium">Hacc</Link>
               </nav>
             </SheetContent>
           </Sheet>
