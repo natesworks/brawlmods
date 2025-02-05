@@ -50,18 +50,6 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         ]
     },
     {
-        name: "Kit Hack",
-        shortDescription: "Kit Hack allowing you to move while attached to teammate or enemy.",
-        tags: ["Official server", "Hack"],
-        id: "kithack",
-        versions: [
-            {
-                version: "V59",
-                downloadLink: "https://dl.natesworks.com/brawlmods/kithack/FridayIM%20Special%20Mods.apk"
-            }
-        ]
-    },
-    {
         name: "Arch Brawl",
         shortDescription: "A V29 private server for iOS and Android with V31 brawlers!",
         tags: ["Private server", "Supports iOS"],
