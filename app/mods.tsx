@@ -50,22 +50,6 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         ]
     },
     {
-        name: "Arch Brawl",
-        shortDescription: "A V29 private server for iOS and Android with V31 brawlers!",
-        tags: ["Private server", "Supports iOS"],
-        id: "archbtw",
-        versions: [
-            {
-                version: "V29",
-                downloadLink: "https://download.natesworks.com/brawlmods/arch/archbrawl.apk"
-            },
-            {
-                version: "V29 for iOS",
-                downloadLink: "https://download.natesworks.com/brawlmods/arch/archbrawl.ipa"
-            }
-        ]
-    },
-    {
         name: "Magic Brawl",
         shortDescription: "Magic Brawl is the rebirth of Brawl Stars and its best times! All content is available on the server: online battles, all the characters and everything. By downloading this server, you can get great pleasure from the updates, because we update the server every month!",
         tags: ["Private server", "Supports iOS"],
