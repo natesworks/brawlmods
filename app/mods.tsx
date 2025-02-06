@@ -685,7 +685,7 @@ and much more!`,
     },
     {
         name: "Moni Brawl",
-        shortDescription: "V29 private server with new skins, winstreaks and more!",
+        shortDescription: "V28 private server with new skins, winstreaks and more!",
         tags: ["Private server"],
         id: "moni",
         versions: [
