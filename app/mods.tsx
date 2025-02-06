@@ -684,6 +684,18 @@ and much more!`,
         ]
     },
     {
+        name: "Moni Brawl",
+        shortDescription: "V29 private server with new skins, winstreaks and more!",
+        tags: ["Private server"],
+        id: "moni",
+        versions: [
+            {
+                version: "V3",
+                downloadLink: "https://dl.natesworks.com/brawlstars/mods/ruid/Ruidbrawl3.apk"
+            }
+        ]
+    },
+    {
         name: "Funneh Brawl",
         shortDescription: "V28 Private server (see full description).",
         description: `Funneh Brawl V28 Release! 😱\
