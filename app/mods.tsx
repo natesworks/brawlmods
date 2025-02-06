@@ -691,7 +691,7 @@ and much more!`,
         versions: [
             {
                 version: "V3",
-                downloadLink: "https://dl.natesworks.com/brawlstars/mods/ruid/Ruidbrawl3.apk"
+                downloadLink: "https://dl.natesworks.com/brawlmods/monibrawl/Moni%20Brawl_3.267.apk"
             }
         ]
     },
