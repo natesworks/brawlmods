@@ -30,7 +30,7 @@ function Header() {
           <nav className="hidden md:flex items-center space-x-6 text-sm font-medium">
             <Link href="/" className="text-foreground/60 transition-colors hover:text-foreground/80">Home</Link>
             <Link href="/submit" className="text-foreground/60 transition-colors hover:text-foreground/80">Submit</Link>
-            <Link href="https://hacc.natesworks.com" className="text-foreground/60 transition-colors hover:text-foreground/80">Submit</Link>
+            <Link href="https://hacc.natesworks.com" className="text-foreground/60 transition-colors hover:text-foreground/80">Hacc</Link>
           </nav>
         </div>
         <ThemeToggle />
