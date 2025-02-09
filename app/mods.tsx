@@ -162,9 +162,13 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
     {
         name: "Original Brawl",
         shortDescription: "Play and mod many versions of Brawl Stars. No need to host your own server!",
-        tags: ["Private server"],
+        tags: ["Private server", "Supports iOS"],
         id: "originalbrawl",
         versions: [
+            {
+                version: "V2 for iOS",
+                downloadLink: "https://dl.natesworks.com/brawlmods/originalbrawl/Original%20Brawl%20v2.57.ipa"
+            }
             {
                 version: "V19",
                 downloadLink: "https://dl.natesworks.com/brawlmods/originalbrawl/Original%20Brawl%20v19.111.apk"
@@ -184,6 +188,10 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
             {
                 version: "V29",
                 downloadLink: "https://dl.natesworks.com/brawlmods/originalbrawl/Original%20Brawl%20v29.apk"
+            },
+            {
+                version: "V53",
+                downloadLink: "https://dl.natesworks.com/brawlmods/originalbrawl/Original%20Brawl%20v53.176"
             }
         ]
     },
