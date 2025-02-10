@@ -23,14 +23,18 @@ function Header() {
               <nav className="flex flex-col space-y-4">
                 <Link href="/" className="text-lg font-medium">Home</Link>
                 <Link href="/submit" className="text-lg font-medium">Submit</Link>
-                <Link href="https://hacc.natesworks.com" className="text-lg font-medium">Hacc</Link>
+                <Link href="https://hacc.natesworks.com" className="text-lg font-medium">Tutorials</Link>
+                <Link href="https://dsc.gg/allbrawl" className="text-lg font-medium">Discord</Link>
+                <Link href="https://t.me/AllModsBrawlStars" className="text-lg font-medium">More mods</Link>
               </nav>
             </SheetContent>
           </Sheet>
           <nav className="hidden md:flex items-center space-x-6 text-sm font-medium">
             <Link href="/" className="text-foreground/60 transition-colors hover:text-foreground/80">Home</Link>
             <Link href="/submit" className="text-foreground/60 transition-colors hover:text-foreground/80">Submit</Link>
-            <Link href="https://hacc.natesworks.com" className="text-foreground/60 transition-colors hover:text-foreground/80">Hacc</Link>
+            <Link href="https://hacc.natesworks.com" className="text-foreground/60 transition-colors hover:text-foreground/80">Tutorials</Link>
+            <Link href="https://dsc.gg/allbrawl" className="text-foreground/60 transition-colors hover:text-foreground/80">Discord</Link>
+            <Link href="https://t.me/AllModsBrawlStars" className="text-foreground/60 transition-colors hover:text-foreground/80">More mods</Link>
           </nav>
         </div>
         <ThemeToggle />
