@@ -144,7 +144,7 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         ]
     },
     {
-        name: "Fiedua Brawl",
+        name: "Fideua Brawl",
         shortDescription: "The BEST v12 private server with custom brawlers, skins and more!",
         tags: ["Private server", "Supports iOS"],
         id: "fiedua",
@@ -168,7 +168,7 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
             {
                 version: "V2 for iOS",
                 downloadLink: "https://dl.natesworks.com/brawlmods/originalbrawl/Original%20Brawl%20v2.57.ipa"
-            }
+            },
             {
                 version: "V19",
                 downloadLink: "https://dl.natesworks.com/brawlmods/originalbrawl/Original%20Brawl%20v19.111.apk"
