@@ -248,6 +248,22 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         ]
     },
     {
+        name: "HDR Brawl",
+        shortDescription: "BSD with HDR graphics and outline removed.",
+        tags: ["Official server", "Nulls Brawl assets"],
+        id: "hdr",
+        versions: [
+            {
+                version: "V59",
+                downloadLink: "https://dl.natesworks.com/brawlmods/hdrbrawl/Telegram%20-%20@hdrbrawl.apk"
+            },
+            {
+                version: "Nulls Brawl Assets",
+                downloadLink: "https://dl.natesworks.com/brawlmods/hdrbrawl/Telegram%20-%20@hdrbrawl.NullsBrawlAssets"
+            }
+        ]
+    },
+    {
         name: "Brawler Maker",
         shortDescription: "A tool that can automatically create a brawler from start to finish without any modding knowledge required.",
         tags: ["Utilities"],
