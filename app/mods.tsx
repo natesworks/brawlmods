@@ -84,6 +84,18 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         ]
     },
     {
+        name: "Tale Stars",
+        shortDescription: "V59 mod menu with xray, kit hack and more!",
+        tags: ["Official server"],
+        id: "tale",
+        versions: [
+            {
+                version: "V1.1",
+                downloadLink: "https://dl.natesworks.com/brawlmods/tale/Tale+Stars_59.197_v1.1.apk"
+            }
+        ]
+    },
+    {
         name: "BSD Brawl",
         shortDescription: "Allows changing server region, viewing enemies ammo and more!",
         tags: ["Official server"],
