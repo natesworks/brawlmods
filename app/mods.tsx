@@ -853,5 +853,45 @@ http://t.me/FunnehBrawl`,
                 downloadLink: "https://dl.natesworks.com/brawlstars/servers/allahbrawl/allahbrawl-v27.zip"
             },
         ]
+    },
+        {
+        name: "Classic Brawl",
+        shortDescription: "A private server made in Python for older versions of the game.",
+        tags: ["Selfhost"],
+        id: "cb",
+        versions: [
+            {
+                version: "V19",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/classicbrawl/Classic-Brawl-v19.zip"
+            },
+            {
+                version: "V20",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/classicbrawl/Classic-Brawl-v20.zip"
+            },
+            {
+                version: "V21",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/classicbrawl/Classic-Brawl-v21.zip"
+            },
+            {
+                version: "V22",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/classicbrawl/Classic-Brawl-v22.zip"
+            },
+            {
+                version: "V23",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/classicbrawl/Classic-Brawl-v23.zip"
+            },
+            {
+                version: "V24",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/classicbrawl/Classic-Brawl-v24.zip"
+            },
+            {
+                version: "V25",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/classicbrawl/Classic-Brawl-v25.zip"
+            },
+            {
+                version: "V26",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/classicbrawl/Classic-Brawl-v26.zip"
+            }
+        ]
     }
 ];
