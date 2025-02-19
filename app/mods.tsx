@@ -9,7 +9,7 @@ interface ModVersion {
 
 interface Mod {
     name: string;
-    shortDescription: string;
+    shortDescription?: string;
     description?: string;
     tags: string[];
     versions: ModVersion[];
@@ -837,6 +837,21 @@ http://t.me/FunnehBrawl`,
                 version: "V1",
                 downloadLink: "https://dl.natesworks.com/brawlstars/assets/nb/outline.NullsBrawlAssets"
             }
+        ]
+    },
+    {
+        name: "Allah Brawl",
+        tags: ["Selfhost"],
+        id: "allah",
+        versions: [
+            {
+                version: "V27",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/allahbrawl/allahbrawl-v27.zip"
+            },
+            {
+                version: "V29",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/allahbrawl/allahbrawl-v27.zip"
+            },
         ]
     }
 ];
