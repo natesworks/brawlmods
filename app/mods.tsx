@@ -210,7 +210,7 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
     {
         name: "Private Server Clients",
         shortDescription: "Brawl Stars clients for connecting to private servers.",
-        tags: ["Selfhost"],
+        tags: ["Selfhost", "Supports iOS"],
         id: "privateserverclients",
         versions: [
             {
@@ -256,6 +256,30 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
             {
                 version: "V29",
                 downloadLink: "https://dl.natesworks.com/brawlstars/clients/v29/v29.apk"
+            },
+            {
+                version: "V41",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/bsds/com.projectbsds.v41150.apk"
+            },
+            {
+                version: "V42",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/bsds/com.projectbsds.v42333.apk"
+            },
+            {
+                version: "V43",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/bsds/com.projectbsds.v43229.apk"
+            },
+            {
+                version: "V44",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/bsds/com.projectbsds.v44226.apk"
+            },
+            {
+                version: "V45",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/bsds/com.projectbsds.v45225.apk"
+            },
+            {
+                version: "V22",
+                downloadLink: "https://dl.natesworks.com/brawlstars/clients/v22/v22.apk"
             }
         ]
     },
@@ -295,20 +319,12 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         id: "bsl",
         versions: [
             {
-                version: "V53 Server",
+                version: "V53",
                 downloadLink: "https://github.com/LkPrtctrd/BSL-V53/archive/refs/heads/master.zip"
             },
             {
-                version: "V53 Client",
-                downloadLink: "https://www.mediafire.com/file/n7gptweb86ncf5a/com.bsl.v53-rev1.apk/file"
-            },
-            {
-                version: "V55 Server",
+                version: "V55",
                 downloadLink: "https://github.com/LkPrtctrd/BSL-V55/archive/refs/heads/master.zip"
-            },
-            {
-                version: "V55 Client",
-                downloadLink: "https://www.mediafire.com/file/v7zgn71r0gw1nqi/com.bsl.v55.apk/file"
             }
         ]
     },
@@ -319,20 +335,20 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         id: "bsds",
         versions: [
             {
-                version: "V41 Server",
+                version: "V41",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/bsds/v41server.zip"
+            },
+            {
+                version: "V42",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/bsds/v42server.zip"
+            },
+            {
+                version: "V43",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/bsds/v43server.zip"
+            },
+            {
+                version: "V44",
                 downloadLink: "https://dl.natesworks.com/brawlstars/servers/bsds/v44server.zip"
-            },
-            {
-                version: "V41 Client",
-                downloadLink: "https://dl.natesworks.com/brawlstars/servers/bsds/com.projectbsds.v41150.apk"
-            },
-            {
-                version: "V44 Server",
-                downloadLink: "https://dl.natesworks.com/brawlstars/servers/bsds/v44server.zip"
-            },
-            {
-                version: "V44 Client",
-                downloadLink: "https://dl.natesworks.com/brawlstars/servers/bsds/com.projectbsds.v44226.apk"
             }
         ]
     },
