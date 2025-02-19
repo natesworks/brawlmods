@@ -277,10 +277,6 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
                 version: "V45",
                 downloadLink: "https://dl.natesworks.com/brawlstars/servers/bsds/com.projectbsds.v45225.apk"
             },
-            {
-                version: "V22",
-                downloadLink: "https://dl.natesworks.com/brawlstars/clients/v22/v22.apk"
-            }
         ]
     },
     {
