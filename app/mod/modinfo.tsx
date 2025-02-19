@@ -57,7 +57,7 @@ export default function ModInfo() {
                 <TabsContent value="information">
                     <Card>
                         <CardContent className="pt-6">
-                            <MarkdownRenderer markdown={mod.description || mod.shortDescription} />
+                            <MarkdownRenderer markdown={mod.description || mod.shortDescription || "No description procided."} />
                         </CardContent>
                     </Card>
                 </TabsContent>
