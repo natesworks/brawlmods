@@ -28,7 +28,7 @@ export default function Home() {
 
     const matchesSearch =
       mod.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-      mod.shortDescription.toLowerCase().includes(searchTerm.toLowerCase());
+      (mod.shortDescription || "No description provided.").toLowerCase().includes(searchTerm.toLowerCase())
     const matchesTags =
       selectedTags.length === 0 || selectedTags.every(tag => mod.tags.includes(tag));
 
@@ -96,7 +96,7 @@ export default function Home() {
                   </div>
                 </CardHeader>
                 <CardContent className="flex-grow">
-                  <p className="text-muted-foreground">{mod.shortDescription}</p>
+                  <p className="text-muted-foreground">{mod.shortDescription || "No description provided."}</p>
                 </CardContent>
                 <CardFooter className="flex flex-col items-center mt-auto">
                   <Select 
