@@ -854,7 +854,7 @@ http://t.me/FunnehBrawl`,
             },
         ]
     },
-        {
+    {
         name: "Classic Brawl",
         shortDescription: "A private server made in Python for older versions of the game.",
         tags: ["Selfhost"],
@@ -891,6 +891,17 @@ http://t.me/FunnehBrawl`,
             {
                 version: "V26",
                 downloadLink: "https://dl.natesworks.com/brawlstars/servers/classicbrawl/Classic-Brawl-v26.zip"
+            }
+        ]
+    },
+    {
+        name: "Dudka Brawl",
+        tags: ["Selfhost"],
+        id: "dudka",
+        versions: [
+            {
+                version: "V12",
+                downloadLink: "https://dl.natesworks.com/brawlstars/servers/dudka/dudka-v12.zip"
             }
         ]
     }
