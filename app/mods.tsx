@@ -133,7 +133,7 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
     },
     {
         name: "Surge Offline",
-        shortDescription: "An offline version of Brawl Stars V29! Allows you to open boxes to unlock brawlers, gain trophies and play any mode. It also adds new skins and 3rd star powers for some brawlers",
+        shortDescription: "An offline version of Brawl Stars V28! Allows you to open boxes to unlock brawlers, gain trophies and play any mode. It also adds new skins and 3rd star powers for some brawlers",
         tags: ["Offline"],
         id: "sb",
         versions: [
