@@ -556,8 +556,8 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         id: "nais",
         versions: [
             {
-                version: "V17",
-                downloadLink: "https://www.mediafire.com/file/2w2en451dm7haj5/Nais+Brawl+v17.apk/file",
+                version: "V18.2",
+                downloadLink: "https://dl.natesworks.com/brawlmods/naisbrawl/Nais+Brawl+v18+Part+2.apk",
             }
         ]
     },
