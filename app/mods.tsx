@@ -362,13 +362,13 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
     },
     {
         name: "Buster's Brawl",
-        shortDescription: "All brawlers unlocked and maxed out. Attempts to recreate brawlers from newer versions of the game.",
+        shortDescription: "Recreats brawlers from newer versions of the game.",
         tags: ["Offline"],
         id: "buster",
         versions: [
             {
-                version: "V12",
-                downloadLink: "https://dl.natesworks.com/brawlmods/bustersbrawl/Buster's%20Brawl_signed.apk"
+                version: "V14",
+                downloadLink: "https://dl.natesworks.com/brawlmods/bustersbrawl/Buster%5c's+Brawl+v14.apk"
             }
         ]
     },
