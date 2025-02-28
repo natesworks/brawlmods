@@ -310,7 +310,7 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
     },
     {
         name: "BSL",
-        shortDescription: "BSDS ported to newer versions. No online battles or brawler logic.",
+        shortDescription: "BSDS ported to newer versions. No online battles.",
         tags: ["Selfhost"],
         id: "bsl",
         versions: [
@@ -326,7 +326,7 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
     },
     {
         name: "BSDS",
-        shortDescription: "Selfhost your own private server with working battles. No brawler logic.",
+        shortDescription: "Selfhost your own private server with working battles. No online battles.",
         tags: ["Selfhost"],
         id: "bsds",
         versions: [
