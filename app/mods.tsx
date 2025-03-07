@@ -761,8 +761,8 @@ http://t.me/FunnehBrawl`,
         id: "funneh",
         versions: [
             {
-                version: "V3",
-                downloadLink: "https://dl.natesworks.com/brawlmods/funneh-brawl/Funneh-Brawl-V3.apk",
+                version: "V5",
+                downloadLink: "https://dl.natesworks.com/brawlmods/funneh-brawl/Funneh-Brawl-V5.apk",
                 altDownload: "t.me/FunnehBrawl"
             }
         ]
