@@ -646,6 +646,13 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
     {
         name: "Project Flickz",
         shortDescription: "V44 server with 500 trophies per win, club league and club pass.",
+        description: `**Features**
+-500+ trophies per win rank trophies up to 50k 
+- Stable (without crashes or server issues) 
+- Ability to unlock every brawler Challenges For Rewards Club League 
+- Updates
+- No online battles 
+(Win Table: Non Club Pass: 60+ for all 3v3 modes and some others Club Pass: 65+ Solo: 70+) `,
         tags: ["Offline"],
         id: "flicz",
         versions: [
