@@ -954,5 +954,17 @@ http://t.me/FunnehBrawl`,
                 downloadLink: "https://github.com/Super-brawl-team/Obiad-brawl-v4/archive/refs/heads/main.zip"
             },
         ]
+    },
+        {
+        name: "Mega Brawl",
+        tags: ["Offline"],
+        id: "mega",
+        shortDescription: "Play with 18 custom brawlers and skins!",
+        versions: [
+            {
+                version: "V3",
+                downloadLink: "https://dl.natesworks.com/brawlmods/mega/MegaBrawlV3.apk"
+            }
+        ]
     }
 ];
