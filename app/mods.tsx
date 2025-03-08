@@ -916,5 +916,25 @@ http://t.me/FunnehBrawl`,
                 downloadLink: "https://dl.natesworks.com/brawlstars/servers/dudka/dudka-v12.zip"
             }
         ]
+    },
+    {
+        name: "Obiad Brawl",
+        tags: ["Selfhost"],
+        id: "obiad",
+        shortDescription: "Server for portrait versions of the game.",
+        versions: [
+            {
+                version: "V1",
+                downloadLink: "https://github.com/Super-brawl-team/Obiad-Brawl/archive/refs/heads/main.zip"
+            },
+            {
+                version: "V2", // same as V1 lmao
+                downloadLink: "https://github.com/Super-brawl-team/Obiad-Brawl/archive/refs/heads/main.zip"
+            },
+            {
+                version: "V4", 
+                downloadLink: "https://github.com/Super-brawl-team/Obiad-brawl-v4/archive/refs/heads/main.zip"
+            },
+        ]
     }
 ];
