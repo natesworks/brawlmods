@@ -214,6 +214,22 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         id: "privateserverclients",
         versions: [
             {
+                version: "V1",
+                downloadLink: "https://dl.natesworks.com/brawlstars/clients/v1/ObiadBrawlOfflineBattles.ipa"
+            },
+            {
+                version: "V1 Online Battles",
+                downloadLink: "https://dl.natesworks.com/brawlstars/clients/v1/ObiadBrawl.ipa"
+            },
+            {
+                version: "V2",
+                downloadLink: "https://dl.natesworks.com/brawlstars/clients/v2/v2+Obiad.ipa"
+            },
+            {
+                version: "V4",
+                downloadLink: "https://dl.natesworks.com/brawlstars/clients/v4/v4+Obiad.ipa"
+            }
+            {
                 version: "V11",
                 downloadLink: "https://dl.natesworks.com/brawlstars/clients/v11/v11.apk"
             },
