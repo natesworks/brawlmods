@@ -155,6 +155,7 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
             }
         ]
     },
+    /*
     {
         name: "Fideua Brawl",
         shortDescription: "The BEST v12 private server with custom brawlers, skins and more!",
@@ -171,6 +172,7 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
             }
         ]
     },
+    */
     {
         name: "Original Brawl",
         shortDescription: "Play and mod many versions of Brawl Stars. No need to host your own server!",
@@ -228,7 +230,7 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
             {
                 version: "V4",
                 downloadLink: "https://dl.natesworks.com/brawlstars/clients/v4/v4+Obiad.ipa"
-            }
+            },
             {
                 version: "V11",
                 downloadLink: "https://dl.natesworks.com/brawlstars/clients/v11/v11.apk"
