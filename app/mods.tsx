@@ -644,6 +644,18 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         ]
     },
     {
+        name: "Project Flickz",
+        shortDescription: "V44 server with 500 trophies per win, club league and club pass.",
+        tags: ["Offline"],
+        id: "flicz",
+        versions: [
+            {
+                version: "V44",
+                downloadLink: "https://dl.natesworks.com/brawlmods/projectflickz/ProjectFlickzBeta1.1.apk",
+            }
+        ]
+    },
+    {
         name: "Aimbot Brawl",
         shortDescription: "Enables aimbot.",
         tags: ["Offline"],
