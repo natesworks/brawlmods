@@ -974,7 +974,7 @@ http://t.me/FunnehBrawl`,
             },
         ]
     },
-        {
+    {
         name: "Mega Brawl",
         tags: ["Offline"],
         id: "mega",
@@ -984,6 +984,18 @@ http://t.me/FunnehBrawl`,
                 version: "V3",
                 downloadLink: "https://dl.natesworks.com/brawlmods/mega/MegaBrawlV3.apk"
             }
+        ]
+    },
+    {
+        name: "Rebrawl Mods",
+        tags: ["Offline"],
+        id: "rebrawlreborn",
+        shortDescription: "Offline version of Rebrawl",
+ 	versions: [
+            {
+                version: "V28",
+                downloadLink: "https://content.natesworks.com/brawlmods/rebrawl/Rebrawl+Mods_sign.apk"
+           }
         ]
     }
 ];
