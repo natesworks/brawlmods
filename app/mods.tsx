@@ -173,6 +173,7 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         ]
     },
     */
+    /*
     {
         name: "Original Brawl",
         shortDescription: "Play and mod many versions of Brawl Stars. No need to host your own server!",
@@ -209,6 +210,7 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
             }
         ]
     },
+   */
     {
         name: "Private Server Clients",
         shortDescription: "Brawl Stars clients for connecting to private servers.",
@@ -954,6 +956,7 @@ http://t.me/FunnehBrawl`,
             }
         ]
     },
+    /*
     {
         name: "Obiad Brawl",
         tags: ["Selfhost"],
@@ -974,6 +977,7 @@ http://t.me/FunnehBrawl`,
             },
         ]
     },
+   */
     {
         name: "Mega Brawl",
         tags: ["Offline"],
