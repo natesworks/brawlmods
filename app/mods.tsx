@@ -104,7 +104,7 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
             {
                 version: "V60",
                 downloadLink: "https://dl.natesworks.com/brawlmods/bsdbrawl/bsd_brawl_v60.448_(29).apk"
-            }i,
+            },
 	    {
                 version: "V60 for iOS",
 		downloadLink: "https://dl.natesworks.com/brawlmods/bsdbrawl/bsd_brawl_v60.448_(29).ipa"
