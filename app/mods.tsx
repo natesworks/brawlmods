@@ -98,13 +98,17 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
     {
         name: "BSD Brawl",
         shortDescription: "Allows changing server region, viewing enemies ammo and more!",
-        tags: ["Official server"],
+        tags: ["Official server", "Supports iOS"],
         id: "bsd",
         versions: [
             {
-                version: "V59",
-                downloadLink: "https://dl.natesworks.com/brawlmods/bsdbrawl/bsd_brawl_v59.197_(28).apk"
-            }
+                version: "V60",
+                downloadLink: "https://dl.natesworks.com/brawlmods/bsdbrawl/bsd_brawl_v60.448_(29).apk"
+            }i,
+	    {
+                version: "V60 for iOS",
+		downloadLink: "https://dl.natesworks.com/brawlmods/bsdbrawl/bsd_brawl_v60.448_(29).ipa"
+	    }
         ]
     },
     {
