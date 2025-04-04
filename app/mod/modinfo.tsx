@@ -1,7 +1,7 @@
 'use client';
 
-import React, { useState, useMemo } from 'react';
-import { useSearchParams } from 'next/navigation';
+import React, { useState, useMemo, useEffect } from 'react';
+import { useSearchParams, useRouter } from 'next/navigation';
 import Image from 'next/image';
 import Link from 'next/link';
 import { mods } from '@/app/mods';
@@ -15,6 +15,13 @@ import { DownloadIcon } from 'lucide-react';
 export default function ModInfo() {
     const searchParams = useSearchParams();
     const id = searchParams.get('id');
+    const router = useRouter();
+
+    useEffect(() => {
+        if (id === 'tomato') {
+            window.location.href = 'https://brawlmods.natesworks.com';
+        }
+    }, [id]);
 
     const [activeTab, setActiveTab] = useState('information');
 
@@ -23,7 +30,6 @@ export default function ModInfo() {
         if (!mod) return null;
 
         const hasVersions = mod.versions && mod.versions.length > 0;
-
         const availableTabs = ['information'];
         if (hasVersions) availableTabs.push('versions');
 
@@ -65,7 +71,7 @@ export default function ModInfo() {
                     <TabsContent value="versions">
                         <Card>
                             <CardContent className="pt-6">
-                                {mod.versions && mod.versions.map((version, index) => (
+                                {mod.versions.map((version, index) => (
                                     <div key={index} className="mb-6 last:mb-0">
                                         <h3 className="text-2xl font-semibold mb-2">{version.version}</h3>
                                         {version.changelog ? (
