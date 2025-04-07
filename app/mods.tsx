@@ -1005,5 +1005,17 @@ http://t.me/FunnehBrawl`,
                 downloadLink: "https://content.natesworks.com/brawlmods/rebrawl/Rebrawl+Mods_sign.apk"
            }
         ]
+    },
+    {
+        name: "Pepca Brawl",
+        tags: ["Offline"],
+        id: "pepca",
+        shortDescription: "Pepca Brawl is a Bsd mod with custom meme voices, custom skins, custom sprays, and more",
+ 	versions: [
+            {
+                version: "V60",
+                downloadLink: "https://dl.natesworks.com/brawlmods/pepca/Pepca+Brawl+BSD+V7+BSDV29.apk"
+           }
+        ]
     }
 ];
