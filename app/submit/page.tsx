@@ -43,7 +43,7 @@ export default function ModSubmissionForm() {
               </div>
 
               <div className="space-y-2">
-                <Label htmlFor="modLink">Mod Download or Telegram Link</Label>
+                <Label htmlFor="modLink">Mod Download NOT Telegram Link</Label>
                 <Input 
                   type="url" 
                   id="modLink" 
