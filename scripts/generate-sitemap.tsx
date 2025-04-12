@@ -13,4 +13,4 @@ const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://w
   ...sitemapEntries,
 ].join('\n')}\n</urlset>`;
 
-fs.writeFileSync('../public/sitemap.xml', sitemap);
+fs.writeFileSync('./public/sitemap.xml', sitemap);
