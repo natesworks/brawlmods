@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://brawlmods.natesworks.com/sitemap.xml
