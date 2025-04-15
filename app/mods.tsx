@@ -449,6 +449,18 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         ]
     },
     {
+        name: "Thrower Brawl",
+	shorterDescription: "Every brawler is a thrower.",
+	tags: ["Offline"],
+	id: "thrower",
+	versions: [
+		{
+                     version: "V29",
+		     downloadLink: "https://dl.natesworks.com/brawlmods/throwerbrawl/Thrower+brawl+%f0%9f%a5%80_signed.apk"
+		}
+	]
+    },
+    {
         name: "GioBrawl",
         shortDescription: "Offline version of V29 with new skins and... interesting brawler names.",
         tags: ["Offline"],
