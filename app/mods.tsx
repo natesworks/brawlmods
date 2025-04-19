@@ -177,7 +177,6 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
         ]
     },
     */
-    /*
     {
         name: "Original Brawl",
         shortDescription: "Play and mod many versions of Brawl Stars. No need to host your own server!",
@@ -214,7 +213,6 @@ We are trying to add new brawlers and features as fast as possible. Sometimes it
             }
         ]
     },
-   */
     {
         name: "Private Server Clients",
         shortDescription: "Brawl Stars clients for connecting to private servers.",
@@ -747,6 +745,18 @@ and much more!`,
             {
                 version: "V3.2 (BS V24)",
                 downloadLink: "https://drive.google.com/file/d/19JBTXFFhq05QnU7LWSXrH4rN1PjkU-RM/view?usp=drivesdk",
+            }
+        ]
+    },  
+    {
+        name: "Vortex Brawl",
+        shortDescription: "Brawl Stars V29 Private Server with regular progression and bot battle.",
+        tags: ["Private server"],
+        id: "vortex",
+        versions: [
+            {
+                version: "V29",
+                downloadLink: "https://dl.natesworks.com/brawlmods/vortexbrawl/VortexBrawl.apk"
             }
         ]
     },
