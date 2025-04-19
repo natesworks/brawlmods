@@ -43,7 +43,7 @@ export default function ModSubmissionForm() {
               </div>
 
               <div className="space-y-2">
-                <Label htmlFor="modLink">Mod Download NOT Telegram Link</Label>
+                <Label htmlFor="modLink">Mod Download</Label>
                 <Input 
                   type="url" 
                   id="modLink" 
@@ -68,15 +68,6 @@ export default function ModSubmissionForm() {
                   id="modDescription" 
                   name="modDescription" 
                   rows={6} 
-                  required 
-                />
-              </div>
-
-              <div className="space-y-2">
-                <Label htmlFor="modDescription">Tags</Label>
-                <Textarea 
-                  id="tags" 
-                  name="tags" 
                   required 
                 />
               </div>
