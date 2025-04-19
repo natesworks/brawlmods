@@ -750,6 +750,26 @@ and much more!`,
     },  
     {
         name: "Vortex Brawl",
+	description: `‼️ Welcome to Vortex Brawl ‼️
+ 
+ ✨Version V29 with the character Colette! ✨
+ 
+ 💥This is a private server for BrawlStars.
+ Where you will find many new friends.
+ A lot of positive emotions and much more.
+ And we will be very glad to see YOU💥
+ 
+ 💫What awaits you on the server:
+ - Working leaderboards 🔥
+ - Games with bots 🔥
+ - Cool gifts in honor of the opening 🔥
+ - Cheap donations and various promotions🔥
+ - Kind administration 🔥
+ - Fully working Battle pass🔥
+ - Trophy road 🔥
+ - Clubs 🔥
+ - Friend🔥
+ `,
         shortDescription: "Brawl Stars V29 Private Server with regular progression and bot battle.",
         tags: ["Private server"],
         id: "vortex",
